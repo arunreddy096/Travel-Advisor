@@ -1,0 +1,2 @@
+# Travel-Advisor
+In this project, we are provided a list of Attraction reviews from 24 categories We need to anticipate which places does the user like based upon the reviews given by them. The users in this dataset are all from the Europe. The 24 categories are Churches resorts beaches, parks, theatres, museums. malls, zoo restaurants pubs, local services, burger / pizza shops, hotels / other lodgings, juice bars, art galleries, dance clubs, swimming pools, gyms, bakeries, beauty and spas, cafes viewpoints, monuments, gardens.
